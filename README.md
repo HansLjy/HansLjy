@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=CHN-ChenYi)
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=ezoiljy)
 
 ![](https://github-readme-stats.vercel.app/api?username=ezoiljy&show_icons=true&hide_border=true)
 
